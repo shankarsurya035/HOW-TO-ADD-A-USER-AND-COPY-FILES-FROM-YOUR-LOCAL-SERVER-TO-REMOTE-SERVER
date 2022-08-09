@@ -5,4 +5,4 @@ Use SCP when:<br>
 
 Copying files from a local host to a remote host.<br>
 Copying files from a remote host to a local host.<br>
-Copying files between two remote servers.
+Copying files between two remote servers.<br>
